@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="18.671" viewBox="0 0 620 18.671">
+  <g id="Group_11944" data-name="Group 11944" transform="translate(2.107)">
+    <g id="Group_11709" data-name="Group 11709" transform="translate(0 9.5)">
+      <line id="Line_100" data-name="Line 100" x2="616" transform="translate(-0.107)" fill="none" stroke="rgba(106,188,133,0.27)" stroke-linecap="round" stroke-width="4"/>
+      <line id="Line_101" data-name="Line 101" x2="43" transform="translate(-0.107)" fill="none" stroke="#1cc653" stroke-linecap="round" stroke-width="4"/>
+      <line id="Line_102" data-name="Line 102" x2="43" transform="translate(572.893)" fill="none" stroke="#1cc653" stroke-linecap="round" stroke-width="4"/>
+    </g>
+    <g id="Path_2005" data-name="Path 2005" transform="translate(297.891)">
+      <path id="Path_2005-2" data-name="Path 2005" d="M10.745,11.9,9.438,5.944,11.979,3.4C13.068,2.314,13.431.862,13.068.136c-.726-.363-2.178,0-3.267,1.089L7.26,3.766,1.307,2.459a.688.688,0,0,0-.8.363L.29,3.185a.77.77,0,0,0,.218.944L4.356,6.67,2.9,8.848H.726L0,9.574l2.178,1.452L3.63,13.2l.726-.726V10.3L6.534,8.848,9.075,12.7a.77.77,0,0,0,.944.218l.363-.145a.833.833,0,0,0,.363-.871Z" transform="matrix(0.695, 0.719, -0.719, 0.695, 9.494, 0)" fill="#1cc653"/>
+    </g>
+  </g>
+</svg>
